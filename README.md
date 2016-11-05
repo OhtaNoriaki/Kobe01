@@ -55,7 +55,7 @@ Debt--名前、金額、利子、返済額、返済頻度(ex. XYZ金融、¥3000
 ## 開発技術
 ### 活用した外部技術
 #### API・データ
-* 
+* https://poi.apache.org/apidocs/org/apache/poi/ss/formula/functions/FinanceLib.html
 * 
 
 #### フレームワーク・ライブラリ・モジュール
